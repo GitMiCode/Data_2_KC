@@ -27,4 +27,4 @@ earthlings = [
         "weather" : "Fall" }
 ]
 
-print("current locations" + earthlings[1]["current loc"])
+print( earthlings[1]["current loc"])
