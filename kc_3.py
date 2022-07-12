@@ -10,7 +10,7 @@ import seaborn as sns
 
 def main():
     # Get Indices of total farm output, data from 1948 - 2019
-    df = pd.read_csv("Indices_of_farm_output.csv")
+    df = pd.read_csv("assets/Indices_of_farm_output.csv")
     print()
     print()
     get_egg_difference(df)
