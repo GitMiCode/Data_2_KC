@@ -1,8 +1,9 @@
 # John Hernandez
 ```
 knowledge_checks = {
-Week3_Knowledge_Check_1 : knowledge_check_1.py,
-Week6_Knowledge_Check_2 : kc_2, 
-Week9_Knowledge_Check_2 : kc_3.py
+Knowledge_Check_1 : 
 }
 ```
+
+Course 1 knowledge checks moved to course1_checks folder to make room <br>
+for up coming course 2 knowledge checks.
