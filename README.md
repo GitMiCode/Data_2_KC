@@ -1,7 +1,9 @@
 # John Hernandez
 ```
-knowledge_checks = {
-Data_2_KC_1 : 
+#### Data Analysis - Course 2
+
+knowledge_checks_2 = {
+Data_2_KC_1 : Data_2_KC_1.ipynb
 }
 ```
 
