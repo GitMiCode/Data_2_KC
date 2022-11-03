@@ -3,7 +3,8 @@
 #### Data Analysis - Course 2
 ```
 knowledge_checks_2 = {
-Data_2_KC_1 : Data_2_KC_1.ipynb
+Data_2_KC_1 : Data_2_KC_1.ipynb  # Data Check course 2 check 1
+Data_2_KC_2 : Data_2_KC_2.ipynb  # Data Check course 2 check 2
 }
 ```
 
